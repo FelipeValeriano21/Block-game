@@ -1,0 +1,32 @@
+body{
+
+   background-image: url('https://usagif.com/cdn-cgi/mirage/bee3c3fab7ff58a2764d98e0a2ebd5314f3a1036cb346968cbc4423b6cfeef58/1280/https://usagif.com/wp-content/uploads/gif/outerspace-6.gif');
+
+}
+
+canvas{
+
+    background: rgb(5,3,47);
+    background: linear-gradient(90deg, rgba(5,3,47,1) 0%, rgba(4,4,94,1) 54%, rgba(20,0,51,1) 100%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+
+}
+
+.placar{
+
+    position: relative;
+    left: 1000px;
+    top: 700px;
+    height: 40px;
+    width: 100px;
+    background-color: red;
+}
+
+p{
+
+    color: black;
+
+}
